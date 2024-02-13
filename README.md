@@ -9,10 +9,6 @@ The data in this repository are a snapshot of the data
 that were used and produced in the research reported on in the paper 
 [Coordinating charging request allocation between self-interested navigation service platforms](https://doi.org/10.1287/ijoc.2022.0269) by M. Guillet and M. Schiffer. 
 
-The snapshot is based on 
-[this SHA](https://github.com/INFORMSJoC/2022.0269/commit/) 
-in the development repository. 
-
 
 ## Cite
 
@@ -30,7 +26,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
   publisher =     {INFORMS Journal on Computing},
   title =         {{Coordinating charging request allocation between self-interested navigation service platforms}},
   year =          {2024},
-  doi =           {10.1287/ijoc.2019.0000.cd},
+  doi =           {10.1287/ijoc.2022.0269.cd},
   url =           (https://github.com/INFORMSJoC/2022.0269},
 }  
 ```
