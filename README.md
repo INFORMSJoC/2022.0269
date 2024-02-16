@@ -22,7 +22,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
 @article{GuilletSchiffer2024,
-  author =        {M. Guillet, M. Schiffer},
+  author =        {Guillet, M. and Schiffer, M.},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Coordinating charging request allocation between self-interested navigation service platforms}},
   year =          {2024},
