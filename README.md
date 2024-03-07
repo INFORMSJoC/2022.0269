@@ -40,5 +40,5 @@ The folder `/data` contains the input data used for the experimental study descr
 
 ## Support
 
-For support in using this software, submit an
+For support in using this data, submit an
 [issue](https://github.com/tkralphs/JoCTemplate/issues/new).
