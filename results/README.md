@@ -13,8 +13,6 @@ The table below describes the `offline.json` result file:
 
 The table below describes the `online.json` result file:
 
-![image](https://github.com/marianneguillet/2022.0269/assets/159616866/3fa541de-6289-4540-8bf8-5369908ac60c)
-
-
+![image](https://github.com/marianneguillet/2022.0269/assets/159616866/4ae3a56a-3d5b-43d4-99cf-ddc5d5c2220f)
 
 
