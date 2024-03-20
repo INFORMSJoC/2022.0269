@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The data in this repository are a snapshot of the data
 that were used and produced in the research reported on in the paper 
-[Coordinating charging request allocation between self-interested navigation service platforms](https://doi.org/10.1287/ijoc.2022.0269) by M. Guillet and M. Schiffer. 
+[Coordinating charging request allocation between self-interested navigation service platforms](https://doi.org/10.1287/ijoc.2022.0269) by M. Guillet and M. Schiffer. This research stems from an industrial collaboration between TU Munich and TomTom, such that the source code cannot be made publicly available.
 
 
 ## Cite
